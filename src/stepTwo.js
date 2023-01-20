@@ -7,7 +7,7 @@ function StepTwo() {
   return (
     <div> 
     <div className='h-screen w-screen bg-black'>
-    <div className='pt-[200px] space-y-4 columns-1 lg:columns-2 '>
+    <div className='pt-[200px] space-y-4 columns-1 lg:columns-2 '>npm install --save react-router-dom
     <div>
     <img src='../img/quiet.gif' alt='quiet' className='object-scale-down  '/>
     </div>
